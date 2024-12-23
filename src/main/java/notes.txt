@@ -1,0 +1,12 @@
+A Program to show how to pass arguments to CommandLineRunner interface run(String... arg) method:
+Programs:
+* SpringBootRunnerApplication6Application.java
+* CustomCommandLineRunner.java
+Notes:
+
+Output:
+From run method in CustomCommandLineRunner class.
+argument-1: --spring.output.ansi.enabled=always
+argument-2: --Test1
+argument-3: --Test2
+From main method in SpringBootRunnerApplication6Application class.

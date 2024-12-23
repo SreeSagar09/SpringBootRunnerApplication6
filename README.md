@@ -1,0 +1,1 @@
+A Program to show how to pass arguments to CommandLineRunner interface run(String... arg) method:
